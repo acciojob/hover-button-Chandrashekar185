@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.btn{
+	background-cokor:black;
+	font-color:white;
+	Border-radius:5px;
+	border:none;
+}
+.btn:hower{
+	background-color:yellow;
+	Font-color:black;
+	Border-radius:30px
+}
